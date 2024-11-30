@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\myplayerstate.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\fpstheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsth\\definitions.fpsth.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\myplayerstate.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\myplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

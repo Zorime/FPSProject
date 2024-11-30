@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\fpstheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsth\\definitions.fpsth.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\tp_weaponcomponent.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

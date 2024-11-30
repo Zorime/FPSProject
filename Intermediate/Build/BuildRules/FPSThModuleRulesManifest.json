@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Study\\UE\\FPSTh\\Source\\FPSTh\\FPSTh.Build.cs",
+		"E:\\Study\\UE\\FPSTh\\Source\\FPSTh.Target.cs",
+		"E:\\Study\\UE\\FPSTh\\Source\\FPSThEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

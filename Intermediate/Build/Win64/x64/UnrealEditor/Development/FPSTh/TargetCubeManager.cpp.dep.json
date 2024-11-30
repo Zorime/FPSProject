@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\study\\ue\\fpsth\\source\\fpsth\\targetcubemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\fpstheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsth\\definitions.fpsth.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\targetcubemanager.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\targetcube.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\targetcube.generated.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\targetcubemanager.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\study\\ue\\fpsth\\source\\fpsth\\fpsthgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\fpstheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsth\\definitions.fpsth.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\fpsthgamemode.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\fpsthgamemode.generated.h",
+            "e:\\study\\ue\\fpsth\\source\\fpsth\\fpsthcharacter.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\epic\\ue_5.3\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\study\\ue\\fpsth\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsth\\uht\\fpsthcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

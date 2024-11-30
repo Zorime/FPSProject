@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPSTh.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSTh.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPSThEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPSTh">
+      <UniqueIdentifier>{9BDA5741-6B3D-390E-8314-35F34457E0AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSTh\FPSTh.Build.cs">
+      <Filter>Source\FPSTh</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPSTh\FPSTh.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\FPSTh.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\FPSThCharacter.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\FPSThCharacter.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\FPSThGameMode.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\FPSThGameMode.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\FPSThPlayerController.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\FPSThPlayerController.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\FPSThProjectile.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\FPSThProjectile.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\MyPlayerState.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\MyPlayerState.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\TargetCube.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\TargetCube.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\TargetCubeManager.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\TargetCubeManager.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\TimerToEnd.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\TimerToEnd.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\TP_PickUpComponent.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\TP_PickUpComponent.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSTh\TP_WeaponComponent.cpp">
+      <Filter>Source\FPSTh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSTh\TP_WeaponComponent.h">
+      <Filter>Source\FPSTh</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
